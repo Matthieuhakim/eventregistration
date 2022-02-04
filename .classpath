@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="EventRegistration-Backend/src/main/java"/>
+	<classpathentry kind="src" path="EventRegistration-Backend/src/test/java"/>
+	<classpathentry kind="lib" path="EventRegistration-Backend/build/libs/EventRegistration-Backend-0.0.1-SNAPSHOT-plain.jar"/>
+	<classpathentry kind="lib" path="EventRegistration-Backend/build/libs/EventRegistration-Backend-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="EventRegistration-Backend/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="EventRegistration-Backend/build/classes/java/main"/>
+</classpath>
