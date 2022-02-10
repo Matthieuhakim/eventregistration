@@ -14,6 +14,4 @@ public class EventRegistrationRestController {
     @Autowired
     private EventRegistrationService service;
     
-   
-
 }
