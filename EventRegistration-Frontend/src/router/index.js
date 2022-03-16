@@ -9,13 +9,13 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'Hello',
-      component: Hello
+      name: 'EventRegistration',
+      component: EventRegistration
     },
     {
       path: '/app',
-      name: 'EventRegistration',
-      component: EventRegistration
+      name: 'Hello',
+      component: Hello
     }
   ]
 })
